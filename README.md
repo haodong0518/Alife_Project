@@ -1,5 +1,3 @@
-# Alife_Project
-
 # ArtificialLife Project
 **Code are listed under different branches**
 
